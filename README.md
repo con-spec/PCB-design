@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing code
 - 🌱 I’m currently learning lending end and after end
 - 💞️ I’m looking to collaborate on people who develop the project together
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 
 
